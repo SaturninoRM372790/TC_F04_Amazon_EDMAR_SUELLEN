@@ -1,6 +1,6 @@
 # Manifesto de dados e rastreabilidade — Fase 4
 
-**Grupo 160 · Amazon Product Performance & Customer Insights**  
+**Grupo 165 · Amazon Product Performance & Customer Insights**  
 **Data do registro documental:** 20/11/2026
 
 | Arquivo | Papel | Dimensão registrada | Alimenta o Power BI? |
