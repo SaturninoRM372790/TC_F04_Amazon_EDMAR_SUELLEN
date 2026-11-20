@@ -1,0 +1,21 @@
+{
+  "name": "FIAP Amazon Executive Light (nao oficial)",
+  "dataColors": ["#232F3E", "#4B7087", "#7796AA", "#FF9900", "#637786", "#A5B6C4", "#B76A00", "#D1D9E0"],
+  "background": "#FFFFFF",
+  "foreground": "#232F3E",
+  "firstLevelElements": "#232F3E",
+  "secondLevelElements": "#526170",
+  "thirdLevelElements": "#E5EAF0",
+  "fourthLevelElements": "#94A3AF",
+  "secondaryBackground": "#F4F6F8",
+  "tableAccent": "#FF9900",
+  "good": "#287D51",
+  "neutral": "#B97612",
+  "bad": "#B53B3B",
+  "textClasses": {
+    "callout": {"fontSize": 32, "fontFace": "Segoe UI Semibold", "color": "#232F3E"},
+    "header": {"fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#232F3E"},
+    "title": {"fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#232F3E"},
+    "label": {"fontSize": 10, "fontFace": "Segoe UI", "color": "#232F3E"}
+  }
+}
