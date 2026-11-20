@@ -1,6 +1,6 @@
 # Guia do avaliador — Tech Challenge Fase 4
 
-**FIAP Pós-Tech Data Analytics · Grupo 160**  
+**FIAP Pós-Tech Data Analytics · Grupo 165**  
 Edmar Saturnino César (RM372790) · Francisca Suellen Soares Barros (RM372732)
 
 ## Entrega e onde localizar os materiais
