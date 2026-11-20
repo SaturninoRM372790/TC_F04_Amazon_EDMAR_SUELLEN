@@ -1,6 +1,6 @@
 # Tech Challenge — Fase 4 | Amazon Product Performance & Customer Insights
 
-**FIAP · Pós-Tech Data Analytics · Grupo 160**  
+**FIAP · Pós-Tech Data Analytics · Grupo 165**  
 **Integrantes:** Edmar Saturnino César (RM372790) e Francisca Suellen Soares Barros (RM372732)
 
 > **Objetivo:** compreender a composição do catálogo Amazon, os preços e descontos anunciados, o engajamento medido por avaliações e os assuntos recorrentes nos comentários, transformando evidências em recomendações executivas.  
@@ -98,4 +98,4 @@ Documentação inicial publicada. **Pendente:** envio do notebook, PBIX e bases 
 
 ---
 
-**Contato acadêmico:** Grupo 160 — FIAP Pós-Tech Data Analytics.
+**Contato acadêmico:** Grupo 165 — FIAP Pós-Tech Data Analytics.
