@@ -1,0 +1,10 @@
+FIAP POS-TECH DATA ANALYTICS — TECH CHALLENGE FASE 4
+Grupo 160 — Edmar Saturnino César e Francisca Suellen Soares Barros
+
+REPOSITÓRIO PÚBLICO
+https://github.com/SaturninoRM372790/TC_F04_Amazon_EDMAR_SUELLEN
+
+O vídeo executivo em formato MP4 e o painel Power BI em formato PBIX são previstos para entrega diretamente no ZIP institucional da FIAP.
+Não há link de YouTube.
+
+Acesse README.md e docs/GUIA_DO_AVALIADOR.md para orientações de verificação.
